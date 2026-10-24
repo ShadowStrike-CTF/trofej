@@ -19,7 +19,7 @@ These files are pre-built and ready to use — substitution only, no new content
 | `pyproject.toml` | hatchling build backend, Proprietary licence, Python 3.11 floor, 3.11 + 3.12 classifiers, src layout wheel target, GitHub source URL |
 | `src/PACKAGENAME/__init__.py` | Package entry point with copyright + motto header |
 | `README.md` | v1.6 format — one-liner, GitHub link, copyright footer, Aut Viam motto |
-| `LICENSE` | Proprietary licence under Strategos Pty Ltd (ACN 699 862 078) |
+| `LICENSE` | Proprietary licence under ShadowStrike |
 | `.gitignore` | Standard Python ignores (dist/, build/, __pycache__, *.egg-info) |
 | `TEMPLATE_GUIDE.md` | This file |
 | `.github/workflows/publish.yml` | Trusted OIDC publishing — fires on `git tag v*` push |

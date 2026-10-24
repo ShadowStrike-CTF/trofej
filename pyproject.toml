@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "trofej"
 version = "1.0.0"
-description = "Namespace secured for the Megdan CTF Line. by ShadowStrike."
+description = "Reserved namespace hold."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [
