@@ -1,4 +1,4 @@
-# stub_template_v1_0_10 — Substitution Guide
+# stub_template_v1_0_11 — Substitution Guide
 
 Replace all placeholders before use. Search-and-replace across all files.
 
@@ -48,7 +48,7 @@ These files are pre-built and ready to use — substitution only, no new content
 ## File structure
 
 ```
-stub_template_v1_0_10/
+stub_template_v1_0_11/
 ├── pyproject.toml               ← hatchling, src layout, Proprietary, 3.11 + 3.12 classifiers
 ├── README.md                    ← v1.6 format (GitHub link, one-liner, attribution, footer)
 ├── LICENSE                      ← Proprietary
@@ -89,6 +89,12 @@ git push origin v0.0.1
 ```
 
 ## Version history
+
+### v1.0.11 changes (B/1.1.37 — 27 Sep 2026)
+- Version reference updated to stub_template_v1_0_11
+- Unallocated namespace holds remain Proprietary pending line allocation (B/1.1.37)
+- Copyright: © [YEAR] ShadowStrike. All rights reserved. per BAC v1.19
+- Commit trailer: Co-Authored-By: Digger (Claude Opus 5.5) <noreply@anthropic.com>
 
 ### v1.0.10 changes
 - pyproject.toml: `Programming Language :: Python :: 3.12` added to classifiers
